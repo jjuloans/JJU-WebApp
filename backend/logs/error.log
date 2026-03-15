@@ -1,0 +1,12 @@
+2026-03-15 21:41:49: [create record] null value in column "remarks" of relation "records" violates not-null constraint error: null value in column "remarks" of relation "records" violates not-null constraint
+2026-03-15 21:41:49:     at /Users/oshanchhajed/Desktop/jju-full-stack/node_modules/pg-pool/index.js:45:11
+2026-03-15 21:41:49:     at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-03-15 21:41:49:     at async create (/Users/oshanchhajed/Desktop/jju-full-stack/backend/controllers/records.controller.js:348:22)
+2026-03-15 21:47:07: [create record] null value in column "remarks" of relation "records" violates not-null constraint error: null value in column "remarks" of relation "records" violates not-null constraint
+2026-03-15 21:47:07:     at /Users/oshanchhajed/Desktop/jju-full-stack/node_modules/pg-pool/index.js:45:11
+2026-03-15 21:47:07:     at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-03-15 21:47:07:     at async create (/Users/oshanchhajed/Desktop/jju-full-stack/backend/controllers/records.controller.js:348:22)
+2026-03-15 21:49:42: [create record] null value in column "mobile" of relation "records" violates not-null constraint error: null value in column "mobile" of relation "records" violates not-null constraint
+2026-03-15 21:49:42:     at /Users/oshanchhajed/Desktop/jju-full-stack/node_modules/pg-pool/index.js:45:11
+2026-03-15 21:49:42:     at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+2026-03-15 21:49:42:     at async create (/Users/oshanchhajed/Desktop/jju-full-stack/backend/controllers/records.controller.js:348:22)
